@@ -1,0 +1,45 @@
+.form {
+    background-color: rgb(252, 252, 252);
+    margin-left: 540px;
+    margin-top: 90px;
+    width: 500px;
+    height: 600px;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(99, 99, 99);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.login {
+    width: 250px;
+    height: 50px;
+    box-shadow: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.login-btn
+{
+    margin-top: '20px';
+    border-radius: 20px;
+    padding-top: 5px;
+    width:320px;
+    display: flex;
+    justify-content: center;
+}
+.Main{
+    background-image: url("./profilrbg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    left: 0%;
+    height: 100%;
+    position: fixed;
+    right: 0;
+    z-index: 1;
+} 
+.forget1{
+    text-align: center;
+}

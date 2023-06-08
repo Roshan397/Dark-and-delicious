@@ -1,0 +1,35 @@
+
+.navlink{
+    background-color: white;
+}
+
+.Header{
+    text-align: center;
+    color: azure;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    margin-top: 140px;
+    margin-left: 590px;
+    margin-right:590px;
+    border:2px solid rgb(255, 255, 255);
+    border-radius: 20%;
+    background-color: rgb(18, 11, 6)
+}
+.description{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.desc{
+    margin-left: 400px;
+    max-width: 50rem;
+    font-size: 1rem;
+    line-height: 150%;
+    color: rgb(105, 105, 105);
+    font-family:sans-serif;
+    text-align: center;
+}
+.displaypro{
+    display: flex;
+    flex: 1;
+}
